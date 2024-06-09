@@ -3,7 +3,7 @@ import { FaTwitter, FaFacebook, FaLinkedin } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Container maxW="container.xl" p={4}>
+    <Container maxW="container.xl" p={4} bg="background">
       <Box as="header" borderBottom="1px" borderColor="gray.200" mb={4} pb={4}>
         <Heading as="h1" size="2xl" textAlign="center" mb={2}>
           Financial Times
